@@ -25,7 +25,7 @@ p{
     width: 3840px;
     height: 720px;
     background-color: #EDEDED;
-    background-image: url(im1.jpg);
+    background-image: url("image/im1.jpg");
     background-size: contain;
     animation: defilement1 12s linear infinite;
 }
@@ -44,7 +44,7 @@ p{
  height: 0;
  padding-top: 75%;
  background-color: #EDEDED;
- background-image: url("im3.jpg");
+ background-image: url("image/im3.jpg");
  background-size: contain;
  animation: defilement2 12s linear infinite;
 }    

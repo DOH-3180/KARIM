@@ -7,7 +7,7 @@ header{
    height:100vh;
    width: 100vw;
    background-size: cover;
-   background-image: url(b.jpg);
+   background-image: url(image/b.jpg);
 }
 
 .image img{
@@ -273,15 +273,17 @@ nav li:hover .a1{
 
       section .pl{ 
          display: flex; 
-        
+         width: 90%;
       }
       
       .pl img{  
-         margin: 2px;
-         width: 50%;
+        
+         width: 60px;
          display: flex; 
          border-radius: 50%;
          margin-bottom: 5px;
+         padding: 20px 40px 20px 70px;
+         
       }
       .pl a{ 
          align-items: center;
